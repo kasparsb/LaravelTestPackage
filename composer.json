@@ -1,0 +1,19 @@
+{
+    "name": "webit/dashboard",
+    "description": "Dashboard",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Webit\\Dashboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaspars Bulins",
+            "email": "kasparsb@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
