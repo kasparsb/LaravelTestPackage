@@ -4,7 +4,7 @@ namespace Webit\Dashboard;
 
 use Illuminate\Console\Command;
 
-class Dashboard2Command extends Command
+class DashboardCommand extends Command
 {
     /**
      * The name and signature of the console command.
